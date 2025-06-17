@@ -47,8 +47,8 @@ ruby url-stripper.rb urls.txt (Print URLs as-is (no stripping) with warning)
 ### 🤔 Why This Name?
 Initially, I randomly named it `oiiai.rb` based on a spinning cat meme (don't ask why!), but later realized it needed a more descriptive name. URLStripper perfectly describes what it does - it strips URL protocols cleanly and efficiently.
 
-### ⌚ Total Time Taken to Develop & Test
-45 minutes for initial development and testing
+### ⌚ Total Spent in Development , Testing & README 
+Approx 30 min
 
 
 ### 🎯 Perfect For Bug Bounty Tools
