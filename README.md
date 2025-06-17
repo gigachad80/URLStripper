@@ -22,6 +22,8 @@ I developed this utility to solve a common pain point in bug bounty hunting. Man
 1.  Git clone this repo:
     ```bash
     git clone https://github.com/gigachad80/URLStripper
+    cd URLStripper
+    ruby url-stripper.rb-h
     ```
 2.  Type `ruby url-stripper.rb -h` to see all available options.
 3.  Prepare your URL list file and use the appropriate stripping options.
