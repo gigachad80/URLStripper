@@ -2,10 +2,11 @@
 ===============
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-purple.svg)
 <a href="https://github.com/gigachad80/URLStripper/issues"><img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat"></a>
-<img src="https://github.com/user-attachments/assets/5c1cb509-828f-4f8c-ab20-784bba25eac3" alt="Description" width="600" height="300">
+<img src="https://github.com/user-attachments/assets/d308109d-744e-4ce6-ad37-4e2bd31012f8" alt="Description" width="600" height="300">
 
 #### Strips HTTP/HTTPS protocols from URL lists to prepare clean URLs for bug bounty tools like eyewitness, gowitness, and port scanners.
----
+
+
 ### 📌 Overview
 *URLStripper* is a Ruby utility that processes lists of URLs by removing HTTP and/or HTTPS protocols. This tool is essential for bug bounty hunters who need clean URLs without protocol prefixes for various security testing tools like eyewitness, gowitness, nmap, and other reconnaissance utilities that expect domain-only input.
 
